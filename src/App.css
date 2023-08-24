@@ -1,15 +1,13 @@
 body {
-  /* background-color: #7cc6fe; */
   display: flex;
   justify-content: center;
   align-items: center;
   min-height: 100vh;
   color: white;
-  background: url(./no-revisions-sBhg2pFvUzs-unsplash.jpg);
+  background: url(./quiz-bg.jpg);
   background-position: center;
   background-repeat:no-repeat;
-  background-size: cover;
-  
+  background-size: cover; 
 }
   .topic{
   color: rgb(240, 236, 236);
@@ -33,7 +31,6 @@ body {
   display: flex;
   justify-content: space-evenly;
 }
-
 .ques-sec{
   position: relative;
   width: 100%;
